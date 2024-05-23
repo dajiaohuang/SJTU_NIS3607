@@ -18,4 +18,4 @@
 - `forking_attack.py`：分叉攻击
 - `selfish_mining.py`：自私挖矿
 - `pow_simulate.py`：PoW 仿真
-- report.zip ： tex文件
+- `report.zip`： tex文件
